@@ -1,2 +1,2 @@
 # Software-Testing-Tool
-A software testing tool that is written in java. This tool is used to test banks system, schools system, and medium-size company's systems 
+A software testing tool that is written in java. This tool is used to test bank systems, school systems, and medium-size company's systems 
